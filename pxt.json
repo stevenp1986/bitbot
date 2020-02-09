@@ -14,6 +14,8 @@
     "_locales/no/BitBot-jsdoc-strings.json",
     "_locales/fr/BitBot-strings.json",
     "_locales/fr/BitBot-jsdoc-strings.json",
+    "_locales/bluetooth-jsdoc-strings.json",
+    "_locales/bluetooth-strings.json",
     "enums.d.ts",
     "shims.d.ts",
     "bluetooth.ts",
